@@ -14,6 +14,7 @@ gem 'autoprefixer-rails'
 gem 'jquery-rails' # Add this line if you use Rails 5.1
 
 gem 'figaro'
+gem 'cloudinary'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
@@ -60,6 +61,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
-gem 'rspec-rails', group: [ :test ]
-gem 'rspec-rails', group: [ :test ]
-gem 'rails-controller-testing', group: [ :test ]
+# gem 'rspec-rails', group: [ :test ]
+# gem 'rspec-rails', group: [ :test ]
+# gem 'rails-controller-testing', group: [ :test ]
